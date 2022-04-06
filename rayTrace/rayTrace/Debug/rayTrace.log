@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(88,39): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(88,56): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(88,74): warning C4838: conversion from 'int' to 'unsigned char' requires a narrowing conversion
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(76,6): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(120,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(129,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(185,51): warning C4018: '<': signed/unsigned mismatch
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(207,40): warning C4018: '<': signed/unsigned mismatch
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(210,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(217,38): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(223,44): warning C4018: '<': signed/unsigned mismatch
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(227,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(330,26): error C2131: expression did not evaluate to a constant
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(330,19): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(330,19): message : see usage of 'aadepth'
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(331,28): error C2131: expression did not evaluate to a constant
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(331,21): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(331,21): message : see usage of 'aadepth'
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(332,27): error C2131: expression did not evaluate to a constant
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(332,20): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(332,20): message : see usage of 'aadepth'
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(339,16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(387,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(395,25): error C3863: array type 'double [aadepth*aadepth]' is not assignable
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(396,27): error C3863: array type 'double [aadepth*aadepth]' is not assignable
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(397,26): error C3863: array type 'double [aadepth*aadepth]' is not assignable
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(409,26): error C3863: array type 'double [aadepth*aadepth]' is not assignable
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(410,28): error C3863: array type 'double [aadepth*aadepth]' is not assignable
+C:\Users\koolu\Desktop\Yun_A01\rayTrace\main.cpp(411,27): error C3863: array type 'double [aadepth*aadepth]' is not assignable
