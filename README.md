@@ -1,4 +1,5 @@
-# CSCI-4471-6671
+# rayTrace
+CSCI-4471-6671
 
 When the program is debugged a console appears then it renders. 
 Then it saves the bmp file in Yun_A01 > rayTrace > rayTrace.
