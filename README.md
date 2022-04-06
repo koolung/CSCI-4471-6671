@@ -1,4 +1,4 @@
-# rayTrace
+# rayTracing
 CSCI-4471-6671
 
 When the program is debugged a console appears then it renders. 
