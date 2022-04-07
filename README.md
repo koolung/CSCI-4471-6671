@@ -5,6 +5,9 @@ When the program is debugged a console appears then it renders.
 Then it saves the bmp file in Yun_A01 > rayTrace > rayTrace.
  
 In my program, I have implemented an image with size of 640 by 480 pixels.
+
+![image](https://user-images.githubusercontent.com/73193826/162097098-4f0d9ee2-33ec-482e-b2d5-fca0efb1e17e.png)
+
 •	I have implemented a savebmp function that passes colour data and saves the image that I have rendered into a bmp file. I have utilised the code segments explains in the following website: https://solarianprogrammer.com/2018/11/19/cpp-reading-writing-bmp-images/’
 
 
